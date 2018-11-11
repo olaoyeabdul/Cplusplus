@@ -1,6 +1,6 @@
 /*
 Name: Abdulsalam Olaoye
-Zid: *******
+Zid: ********
 Assignment Number: 2
 Assignment Title: Perfect Numbers
 Due Date: 9/14/2017
