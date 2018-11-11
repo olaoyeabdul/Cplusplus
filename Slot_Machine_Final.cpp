@@ -1,7 +1,7 @@
 //*************************************
 //name: Abdulsalam Olaoye	     **
 //date: 12-12-2016					 **
-//lab: Final						 **
+//lab: Final				 **
 //summary: Slot machine program      **
 //*************************************
 
