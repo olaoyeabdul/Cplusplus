@@ -1,6 +1,7 @@
 #ifndef PROG1_H
 #define PROG1_H
 
+
 #include<iostream>
 
 using namespace std;
