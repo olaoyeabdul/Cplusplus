@@ -1,5 +1,5 @@
 //Prog1 is used to compute pi by deducting/adding odd numbers reciprocal from 1
-//The computation gives a value close to the value of pi
+//The computation gives a value close to the value of pi 
 #include"prog1.h"
 
 int main()
