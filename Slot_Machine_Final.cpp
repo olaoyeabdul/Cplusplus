@@ -1,5 +1,5 @@
 //*************************************
-//name: Abdulsalam Olaoye			 **
+//name: Abdulsalam Olaoye	     **
 //date: 12-12-2016					 **
 //lab: Final						 **
 //summary: Slot machine program      **
@@ -113,7 +113,7 @@ string rules[28] =
 	"Rules of the game are as follows:					",
 	"							 		",
 	"1.	Money								",
-	"	- Wallet range (min:$100 – max: $1000)				",
+	"	- Wallet range (min:$100 â€“ max: $1000)				",
 	"	- Range of amount to bet ($100 - $1000)				",
 	"	- Buy-in minimum is $100 					",
 	"	- Amount that can be added to wallet ($100, $200, $500 and $1000)",
