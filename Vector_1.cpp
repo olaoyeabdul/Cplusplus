@@ -1,5 +1,5 @@
 //*******************************************
-//name: Abdulsalam Olaoye			        *
+//name: Abdulsalam Olaoye		    *
 //date: 10-2-2016					        *
 //lab: Lab 13						        *
 //summary: Vectors          		    	*
