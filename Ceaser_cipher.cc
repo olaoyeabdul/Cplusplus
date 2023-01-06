@@ -1,6 +1,5 @@
 /*
 Name = Abdulsalam Olaoye
-Zid = Z1836477
 Prog title = Ceaser cipher
 Prog = Program to receive text from file and cipher the text using a specific key and shift given from a text
 */
